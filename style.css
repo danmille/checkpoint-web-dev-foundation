@@ -1,5 +1,12 @@
 *,
 *:before,
 *:after {
-  box-sizing: border-box;
+  box-sizing: content-box;
+}
+body {
+  background-color: hot pink;
+  max-width: 600px;
+}
+.Julia {
+  font-size: 16px;
 }
