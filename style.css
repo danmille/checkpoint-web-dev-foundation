@@ -1,7 +1,10 @@
 *,
 *:before,
 *:after {
-  box-sizing: content-box;
+  box-sizing: border-box;
+  width: 100%;
+  border: solid #5b6dcd 10px;
+  padding: 5px;
 }
 body {
   background-color: hot pink;
