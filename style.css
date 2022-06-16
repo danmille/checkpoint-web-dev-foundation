@@ -25,3 +25,10 @@ h1 {
   font-size: 1em;
   border: 1px solid black;
 }
+ul {
+  display: flex;
+  flex-direction: column;
+}
+.icon {
+  color: antiquewhite;
+}
